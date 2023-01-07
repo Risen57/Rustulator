@@ -1,4 +1,5 @@
 # Rustulator
+さび電卓:
 A CLI based calculator I made to practice while learning rust
 Basic addition, substraction, multiplication, division, and raising to power for now
 
